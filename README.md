@@ -3,5 +3,5 @@
 Fully automate Regular Threat Hunts across cloud assets with the Cado Platform API, AWS Lambda and EventBridge. 
 
 <p align="center">
-  ![alt text](blogimage.png)
+  <img src="blogimage.png" />
 </p>
