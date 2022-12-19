@@ -2,4 +2,4 @@
 -------
 Fully automate Regular Threat Hunts across cloud assets with the Cado Platform API and AWS Lambda and EventBridge. 
 
-(blogimage)[blogimage.png]
+![alt text](blogimage.png)
